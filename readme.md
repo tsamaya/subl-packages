@@ -13,6 +13,10 @@ here my list of sublime-text packages :smile:
 - Hex​Viewer : https://github.com/facelessuser/HexViewer
 - Scalariver : https://github.com/dohzya/sublime_scalariver
 - ~~Theme - Afterglow : http://yabatadesign.github.io/afterglow-theme/~~
+- Markdown Preview : https://github.com/revolunet/sublimetext-markdown-preview
+- git : https://github.com/kemayo/sublime-text-git
+- EditorConfig : https://github.com/sindresorhus/editorconfig-sublime
+- HTMLBeautify : https://github.com/rareyman/HTMLBeautify
 
 ## additional hints
 - Reverting to a Freshly Installed State https://www.sublimetext.com/docs/3/revert.html
