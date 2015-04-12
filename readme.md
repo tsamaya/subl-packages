@@ -16,8 +16,12 @@ here my list of sublime-text packages :smile:
 - EditorConfig : https://github.com/sindresorhus/editorconfig-sublime
 - HTML-CSS-JS Prettify : https://github.com/victorporof/Sublime-HTMLPrettify
 
-- ~~Pretty JSON : (https://github.com/dzhibas/SublimePrettyJson) ~~
-- ~~Theme - Afterglow : (http://yabatadesign.github.io/afterglow-theme) /~~
+- ~~Pretty JSON : (https://github.com/dzhibas/SublimePrettyJson)~~
+- ~~Theme - Afterglow : (http://yabatadesign.github.io/afterglow-theme)~~
+
+- Side​Bar​Enhancements : https://packagecontrol.io/packages/SideBarEnhancements
+- Bracket​Highlighter : https://packagecontrol.io/packages/BracketHighlighter
+- Markdown​Editing : https://packagecontrol.io/packages/MarkdownEditing
 
 ## additional hints
 - Reverting to a Freshly Installed State https://www.sublimetext.com/docs/3/revert.html
