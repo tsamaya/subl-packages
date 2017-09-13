@@ -4,19 +4,28 @@ here my list of sublime-text packages :smile:
 
 - Pacakage Control : https://packagecontrol.io/installation
 - Emmet : http://emmet.io/
-- Doc​Blockr : https://github.com/spadgos/sublime-jsdocs
-- Hex​Viewer : https://github.com/facelessuser/HexViewer
+- DocBlockr : https://github.com/spadgos/sublime-jsdocs
+- HexViewer : https://github.com/facelessuser/HexViewer
 - Markdown Preview : https://github.com/revolunet/sublimetext-markdown-preview
+- MarkdownHighlighting : https://packagecontrol.io/packages/MarkdownHighlighting
 - git : https://github.com/kemayo/sublime-text-git
 - EditorConfig : https://github.com/sindresorhus/editorconfig-sublime
 - HTML-CSS-JS Prettify : https://github.com/victorporof/Sublime-HTMLPrettify
 - SublimeLinter : http://www.sublimelinter.com
 - SublimeLinter-jshint : https://github.com/SublimeLinter/SublimeLinter-jshint
+- SublimeLinter-eslint : https://github.com/roadhump/SublimeLinter-eslint
 - SublimeLinter-csslint : https://github.com/SublimeLinter/SublimeLinter-csslint
 - Codec : https://github.com/furikake/sublime-codec
-- Side​Bar​Enhancements : https://packagecontrol.io/packages/SideBarEnhancements
-- Bracket​Highlighter : https://packagecontrol.io/packages/BracketHighlighter
-- Markdown​Editing : https://packagecontrol.io/packages/MarkdownEditing
+- Side Bar Enhancements : https://packagecontrol.io/packages/SideBarEnhancements
+- Trimmer : https://github.com/jonlabelle/Trimmer
+- Bracket Highlighter : https://packagecontrol.io/packages/BracketHighlighter
+- GitGutter : https://github.com/jisaacks/GitGutter
+- Terminal : https://packagecontrol.io/packages/Terminal
+- Color Picker: https://packagecontrol.io/packages/ColorPicker
+- Color HighLighter : https://packagecontrol.io/packages/Color%20Highlighter
+- SublimeCodeIntel : https://packagecontrol.io/packages/SublimeCodeIntel
+
+- ~~Markdown Editing : https://packagecontrol.io/packages/MarkdownEditing~~
 - ~~URLEncode : https://github.com/mastahyeti/URLEncode~~
 - ~~JsFormat : https://github.com/jdc0589/JsFormat~~
 - ~~JS Hint Gutter : https://github.com/victorporof/Sublime-JSHint~~
