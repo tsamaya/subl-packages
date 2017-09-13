@@ -3,7 +3,9 @@
 here my list of sublime-text packages :smile:
 
 - Pacakage Control : https://packagecontrol.io/installation
+
 - Emmet : http://emmet.io/
+- FileIcons : https://github.com/ihodev/a-file-icon
 - DocBlockr : https://github.com/spadgos/sublime-jsdocs
 - HexViewer : https://github.com/facelessuser/HexViewer
 - Markdown Preview : https://github.com/revolunet/sublimetext-markdown-preview
@@ -15,7 +17,10 @@ here my list of sublime-text packages :smile:
 - SublimeLinter-jshint : https://github.com/SublimeLinter/SublimeLinter-jshint
 - SublimeLinter-eslint : https://github.com/roadhump/SublimeLinter-eslint
 - SublimeLinter-csslint : https://github.com/SublimeLinter/SublimeLinter-csslint
+- ESLintFormatter: https://github.com/TheSavior/ESLint-Formatter
 - Codec : https://github.com/furikake/sublime-codec
+- OpenURL
+- CompareSidebySide
 - Side Bar Enhancements : https://packagecontrol.io/packages/SideBarEnhancements
 - Trimmer : https://github.com/jonlabelle/Trimmer
 - Bracket Highlighter : https://packagecontrol.io/packages/BracketHighlighter
